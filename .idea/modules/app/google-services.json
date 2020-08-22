@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929794861790",
+    "firebase_url": "https://chat-app-b74d6.firebaseio.com",
+    "project_id": "chat-app-b74d6",
+    "storage_bucket": "chat-app-b74d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929794861790:android:040ce0420dd17c9461304f",
+        "android_client_info": {
+          "package_name": "com.kesatriakeyboard.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929794861790-a5hc8ea4qcdpq2q0to27kguiq7s0ha1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kesatriakeyboard.chatapp",
+            "certificate_hash": "437779e2dd8016d92fed52ea69d3ad9aa94457b8"
+          }
+        },
+        {
+          "client_id": "929794861790-2aa9i5nu3fl1ajatbn2cs8c2263gbum6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkX_WGTZWM9JzcEbYCqGqxrphII8t2TwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929794861790-2aa9i5nu3fl1ajatbn2cs8c2263gbum6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
